@@ -282,5 +282,3 @@ if (_.isAwesome(thisRepo)) {
  
 [![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/vinitshahdeo/PortScanner/) [![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo/)
  
-#   p o r t s c a n e r  
- 
